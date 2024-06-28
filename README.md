@@ -1,13 +1,13 @@
-<h1 align="center">Hello, nice to see you.</h2>
+<h1 align="center">Hello, nice to see you.</h1>
 
 ###
 
-<h3 align="center">I'm Tiago Silva, a software engineering student from Portugal 🇵🇹</p>
+<h3 align="center">I'm Tiago Silva, a software engineering student from Portugal 🇵🇹</h3>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tiago-silva15/" target="_blank">
+  <a href="https://www.linkedin.com/in/tiago-silva-576aa3316/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://tryhackme.com/p/zidro15" target="_blank">
@@ -20,20 +20,21 @@
 
 ###
 
+<h2 align="left"></h2>
+
+###
+
 <h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<h4 align="left">- 💬 Native Portuguese speaker and Fluent in English<br><br>- 📖 Currently studying Software Engeneering at UTAD (second year)<br><br>- 💻 Cybersecurity enthusiast</h5>
+<h4 align="left">- 💬 Native Portuguese speaker and Fluent in English<br><br>- 📖 Currently studying Software Engeneering at UTAD (second year)<br><br>- 💻 Cybersecurity enthusiast</h4>
 
 ###
 
 <h2 align="left">🛠 Languages and tools</h2>
 
 ###
-
-
-
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
@@ -53,8 +54,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/haskell/5D4F85" height="40" alt="haskell logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
+
+###
+
+<h2 align="left"></h2>
 
 ###
 
