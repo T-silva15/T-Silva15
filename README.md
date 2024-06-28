@@ -1,8 +1,8 @@
-<h2 align="center">Hello, nice to see you.</h2>
+<h1 align="center">Hello, nice to see you.</h2>
 
 ###
 
-<h4 align="center">I'm Tiago Silva, a software engineering student from Portugal 🇵🇹</p>
+<h3 align="center">I'm Tiago Silva, a software engineering student from Portugal 🇵🇹</p>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h5 align="left">- 💬 Native Portuguese speaker and Fluent in English<br><br>- 📖 Currently studying Software Engeneering at UTAD (second year)<br><br>- 💻 Cybersecurity enthusiast</h5>
+<h4 align="left">- 💬 Native Portuguese speaker and Fluent in English<br><br>- 📖 Currently studying Software Engeneering at UTAD (second year)<br><br>- 💻 Cybersecurity enthusiast</h5>
 
 ###
 
