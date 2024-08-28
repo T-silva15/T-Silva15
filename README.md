@@ -30,7 +30,6 @@
 
 <h4 align="left">- 💬 Native Portuguese speaker and Fluent in English<br><br>- 📖 Currently studying Software Engeneering at UTAD (second year)<br><br>- 💻 Cybersecurity enthusiast</h4>
 
-![alt text](https://www.stationx.net/wp-content/uploads/2023/11/1.-What-is-the-Google-Cybersecurity-Professional-Certificate.png)
 
 ###
 
