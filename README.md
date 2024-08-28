@@ -30,6 +30,9 @@
 
 <h4 align="left">- 💬 Native Portuguese speaker and Fluent in English<br><br>- 📖 Currently studying Software Engeneering at UTAD (second year)<br><br>- 💻 Cybersecurity enthusiast</h4>
 
+![google-cybersecurity-certificate(1)](https://github.com/user-attachments/assets/78a4587f-f3ec-4290-9277-8ff05f8d51c3)
+
+
 ###
 
 <h2 align="left">🛠 Languages and tools</h2>
