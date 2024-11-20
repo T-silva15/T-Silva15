@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm Tiago Silva, a software engineering student from Portugal 🇵🇹</h3>
+<h3 align="center">I'm Tiago, a software engineering student from Portugal 🇵🇹</h3>
 
 ###
 
