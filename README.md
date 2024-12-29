@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="left">- 📖 Currently studying Software Engeneering at UTAD (third year)<br><br>- 💻 Cybersecurity enthusiast</h4>
+<h4 align="left">- 📖 Currently studying Software Engeneering at UTAD (third year).<br><br>- 💻 Cybersecurity enthusiast</h4>.
 
 ###
 
