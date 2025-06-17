@@ -1,5 +1,13 @@
 <h1 align="center">Hello, nice to see you.</h1>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/N5NpAHS.png" width="0" height="0">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/OQUzGpc.png" width="0" height="0">
+    <img alt="Invisible Image to fix styling" src="https://i.imgur.com/OQUzGpc.png" width="0" height="0">
+  </picture>
+</div>
+
 ###
 
 <h3 align="center">I'm Tiago, a cybersecurity enthusiast and software engineering graduate from Portugal 🇵🇹</h3>
@@ -8,15 +16,15 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/tiago-silva15" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50" height="48"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50" height="48" align="center" alt="linkedin"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://tryhackme.com/r/p/tsilva15" target="_blank">
-    <img src="https://assets.tryhackme.com/img/favicon.png" width="50" height="48"/>
+    <img src="https://assets.tryhackme.com/img/favicon.png" width="50" height="48" align="center" alt="tryhackme"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:tiagoissilva@protonmail.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/protonmail/8B89CC" height="50" alt="protonmail logo"/>
+  <img src="https://cdn.simpleicons.org/protonmail/8B89CC" height="50" width="50" align="center" alt="protonmail"/>
   </a>
 </div>
 
@@ -38,16 +46,16 @@
 ###
 
 <div align="left">
-  <h4>🔒 <strong>CNN-LSTM Botnet Detection System</strong></h4>
+  <h4>🔒 <strong><a href="https://github.com/T-silva15/DeepLearning-Botnet_Detection">CNN-LSTM Botnet Detection System</a></strong></h4>
   <p style="margin-top: -15px;">Deep learning hybrid model achieving 99.9% detection accuracy on IoT botnet traffic • Python, TensorFlow, Keras</p>
   
-  <h4>🌊 <strong>OceanMonitor - Distributed Systems Platform</strong></h4>
+  <h4>🌊 <strong><a href="https://github.com/T-silva15/OceanMonitor">OceanMonitor - Distributed Systems Platform</a></strong></h4>
   <p style="margin-top: -15px;">Three-tier distributed system with cross-language microservices for ocean data analysis • C#, Rust, Python, ZeroMQ, gRPC</p>
   
-  <h4>🎮 <strong>Interactive 3D Graphics Engine</strong></h4>
-  <p style="margin-top: -15px;">WebGL-based rendering system with advanced lighting and scene management • Three.js, WebGL, JavaScript</p>
+  <h4>🎮 <strong><a href="https://github.com/T-silva15/3D-BrickBreaker">Interactive 3D Graphics Game</a></strong></h4>
+  <p style="margin-top: -15px;">WebGL-based game with advanced lighting and scene management • Three.js, WebGL, JavaScript</p>
   
-  <h4>⛓️ <strong>Blockchain Cryptocurrency Implementation</strong></h4>
+  <h4>⛓️ <strong><a href="https://github.com/T-silva15/PoW-Blockchain">Blockchain Cryptocurrency Implementation</a></strong></h4>
   <p style="margin-top: -15px;">Secure transaction system with cryptographic wallet management • Java, SHA-256</p>
 </div>
 
@@ -76,11 +84,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/zeromq/DF0000" height="40" alt="zeromq logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webgl/990000" height="40" alt="webgl logo"  />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"/>
 </div>
 
 ###
