@@ -2,37 +2,58 @@
 
 ###
 
-<h3 align="center">I'm Tiago, a software engineering student from Portugal 🇵🇹</h3>
+<h3 align="center">I'm Tiago, a cybersecurity enthusiast and software engineering graduate from Portugal 🇵🇹</h3>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tiago-silva-576aa3316/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <a href="https://www.linkedin.com/in/tiago-silva15" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50" height="48"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://tryhackme.com/r/p/tsilva15" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+    <img src="https://assets.tryhackme.com/img/favicon.png" width="50" height="48"/>
   </a>
-  <a href="mailto:tiagoissilva@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:tiagoissilva@protonmail.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/protonmail/8B89CC" height="50" alt="protonmail logo"/>
   </a>
 </div>
 
 ###
 
-<h2 align="left"></h2>
+<h2 align="left">🔐 About Me</h2>
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h4 align="left">
+- 🎓 Software Engineering graduate from UTAD (2025)<br><br>
+- 🛡️ Cybersecurity enthusiast with focus on network security and threat detection<br><br>
+- 💻 Software developer with experience in multiple programming languages and security applications<br><br>
+</h4>
+
+###
+<h2 align="left">🚀 Notable Projects</h2>
 
 ###
 
-<h4 align="left">- 📖 Currently studying Software Engeneering at UTAD (third year).<br><br>- 💻 Cybersecurity enthusiast.</h4>
+<div align="left">
+  <h4>🔒 <strong>CNN-LSTM Botnet Detection System</strong></h4>
+  <p style="margin-top: -15px;">Deep learning hybrid model achieving 99.9% detection accuracy on IoT botnet traffic • Python, TensorFlow, Keras</p>
+  
+  <h4>🌊 <strong>OceanMonitor - Distributed Systems Platform</strong></h4>
+  <p style="margin-top: -15px;">Three-tier distributed system with cross-language microservices for ocean data analysis • C#, Rust, Python, ZeroMQ, gRPC</p>
+  
+  <h4>🎮 <strong>Interactive 3D Graphics Engine</strong></h4>
+  <p style="margin-top: -15px;">WebGL-based rendering system with advanced lighting and scene management • Three.js, WebGL, JavaScript</p>
+  
+  <h4>⛓️ <strong>Blockchain Cryptocurrency Implementation</strong></h4>
+  <p style="margin-top: -15px;">Secure transaction system with cryptographic wallet management • Java, SHA-256</p>
+</div>
 
 ###
 
-<h2 align="left">🛠 Languages and tools</h2>
+<h2 align="left">🛠 Technologies & Tools</h2>
 
 ###
 
@@ -41,27 +62,45 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/zeromq/DF0000" height="40" alt="zeromq logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webgl/990000" height="40" alt="webgl logo"  />
 </div>
 
 ###
 
-<h2 align="left"></h2>
+<h2 align="left">🎯 Areas of Interest</h2>
+
+###
+
+<h4 align="left">
+🔐 <strong>Cybersecurity</strong>: Network security, intrusion detection, and threat analysis<br><br>
+🤖 <strong>Machine Learning</strong>: Applied AI for security applications and data analysis<br><br>
+🌐 <strong>Distributed Systems</strong>: Scalable architectures, RPC mechanisms, and cross-language integration<br><br>
+💻 <strong>Software Development</strong>: Full-stack development with focus on secure coding practices<br><br>
+</h4>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T-silva15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=T-silva15&theme=radical&border_radius=4&date_format=j%20M%5B%20Y%5D" height="150" alt="GitHub Streak" />
-  
+</div>
+
 ###
