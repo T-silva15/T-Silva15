@@ -16,15 +16,15 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/tiago-silva15" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50" height="48" align="center" alt="linkedin"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" align="center" alt="linkedin"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://tryhackme.com/r/p/tsilva15" target="_blank">
-    <img src="https://assets.tryhackme.com/img/favicon.png" width="50" height="48" align="center" alt="tryhackme"/>
+    <img src="https://assets.tryhackme.com/img/favicon.png" width="40" height="40" align="center" alt="tryhackme"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:tiagoissilva@protonmail.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/protonmail/8B89CC" height="50" width="50" align="center" alt="protonmail"/>
+  <img src="https://cdn.simpleicons.org/protonmail/8B89CC" height="35" width="35" align="center" alt="protonmail"/>
   </a>
 </div>
 
