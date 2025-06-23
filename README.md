@@ -103,8 +103,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T-silva15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=T-silva15&theme=radical&border_radius=4&date_format=j%20M%5B%20Y%5D" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-silva15&hide_progress=true&theme=tokyonight" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=T-silva15&hide=stars,prs,issues,contribs&show=commits,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_rank=true" height="150" alt="contributions graph" />
 </div>
 
 ###
