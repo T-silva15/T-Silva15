@@ -101,10 +101,3 @@
 </h4>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-silva15&hide_progress=true&theme=tokyonight" height="150" alt="languages graph"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=T-silva15&hide=stars,prs,issues,contribs&show=commits,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_rank=true" height="150" alt="contributions graph" />
-</div>
-
-###
