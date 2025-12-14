@@ -35,9 +35,8 @@
 ###
 
 <h4 align="left">
-- 🎓 Software Engineering graduate from UTAD (2025)<br><br>
-- 🛡️ Cybersecurity enthusiast with focus on network security and threat detection<br><br>
-- 💻 Software developer with experience in multiple programming languages and security applications<br><br>
+- 🎓 Software Engineering graduate from UTAD <br><br>
+- 🛡️ Cybersecurity enthusiast with focus on AppSec and Blue Teaming<br><br>
 </h4>
 
 ###
