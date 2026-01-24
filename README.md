@@ -1,102 +1,16 @@
-<h1 align="center">Hello, nice to see you.</h1>
+<h1 align="center">Hey, I'm Tiago 👋</h1>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/N5NpAHS.png" width="0" height="0">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/OQUzGpc.png" width="0" height="0">
-    <img alt="Invisible Image to fix styling" src="https://i.imgur.com/OQUzGpc.png" width="0" height="0">
-  </picture>
-</div>
+<p align="center">
+  <b>DevSecOps Engineer</b> • Software Engineering Graduate • Portugal 🇵🇹
+</p>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/tiago-silva15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ1MiAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1NlY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white"/></a>
+  <a href="https://www.credly.com/badges/09a5fb8b-8004-4494-bb14-1df9c220f070"><img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
+  <a href="mailto:tiagoissilva@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
+</p>
 
-<h3 align="center">I'm Tiago, a cybersecurity enthusiast and software engineering graduate from Portugal 🇵🇹</h3>
-
-###
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/tiago-silva15" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" align="center" alt="linkedin"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://tryhackme.com/r/p/tsilva15" target="_blank">
-    <img src="https://assets.tryhackme.com/img/favicon.png" width="40" height="40" align="center" alt="tryhackme"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:tiagoissilva@protonmail.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/protonmail/8B89CC" height="35" width="35" align="center" alt="protonmail"/>
-  </a>
-</div>
-
-###
-
-<h2 align="left">🔐 About Me</h2>
-
-###
-
-<h4 align="left">
-- 🎓 Software Engineering graduate from UTAD <br><br>
-- 🛡️ Cybersecurity enthusiast with focus on AppSec and Blue Teaming<br><br>
-</h4>
-
-###
-<h2 align="left">🚀 Notable Projects</h2>
-
-###
-
-<div align="left">
-  <h4>🔒 <strong><a href="https://github.com/T-silva15/DeepLearning-Botnet_Detection">CNN-LSTM Botnet Detection System</a></strong></h4>
-  <p style="margin-top: -15px;">Deep learning hybrid model achieving 99.9% detection accuracy on IoT botnet traffic • Python, TensorFlow, Keras</p>
-  
-  <h4>🌊 <strong><a href="https://github.com/T-silva15/OceanMonitor">OceanMonitor - Distributed Systems Platform</a></strong></h4>
-  <p style="margin-top: -15px;">Three-tier distributed system with cross-language microservices for ocean data analysis • C#, Rust, Python, ZeroMQ, gRPC</p>
-  
-  <h4>🎮 <strong><a href="https://github.com/T-silva15/3D-BrickBreaker">Interactive 3D Graphics Game</a></strong></h4>
-  <p style="margin-top: -15px;">WebGL-based game with advanced lighting and scene management • Three.js, WebGL, JavaScript</p>
-  
-  <h4>⛓️ <strong><a href="https://github.com/T-silva15/PoW-Blockchain">Blockchain Cryptocurrency Implementation</a></strong></h4>
-  <p style="margin-top: -15px;">Secure transaction system with cryptographic wallet management • Java, SHA-256</p>
-</div>
-
-###
-
-<h2 align="left">🛠 Technologies & Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"/>
-</div>
-
-###
-
-<h2 align="left">🎯 Areas of Interest</h2>
-
-###
-
-<h4 align="left">
-🔐 <strong>Cybersecurity</strong>: Network security, intrusion detection, and threat analysis<br><br>
-🤖 <strong>Machine Learning</strong>: Applied AI for security applications and data analysis<br><br>
-🌐 <strong>Distributed Systems</strong>: Scalable architectures, RPC mechanisms, and cross-language integration<br><br>
-💻 <strong>Software Development</strong>: Full-stack development with focus on secure coding practices<br><br>
-</h4>
-
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,bash,azure,gcp,aws,linux,ansible&theme=dark" />
+  <img src="https://cdn.simpleicons.org/vault/FFEC6E" height="48" alt="vault" />
+</p>
