@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Tiago 👋</h1>
 
 <p align="center">
-  <b>DevSecOps Engineer</b> • Software Engineering Graduate • Portugal 🇵🇹
+  <b>Platform Engineer</b> • Portugal 🇵🇹
 </p>
 
 <p align="center">
