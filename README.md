@@ -10,7 +10,5 @@
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,kubernetes,terraform,docker,bash,azure,gcp,linux&theme=dark" />
-  <img src="https://avatars.githubusercontent.com/u/1507452?s=48&v=4" height="36" style="margin-left: 5px; background: #242938; border-radius: 12px; padding: 6px;" alt="vault" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" height="36" style="margin-left: 5px; background: #242938; border-radius: 12px; padding: 6px;" alt="vault" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,kubernetes,terraform,docker,linux,bash,azure,gcp&theme=dark" />
 </p>
